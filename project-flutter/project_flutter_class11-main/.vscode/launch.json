@@ -1,0 +1,88 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "slicing-ui4",
+            "cwd": "slicing-ui4",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "slicing-ui4 (profile mode)",
+            "cwd": "slicing-ui4",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "slicing-ui4 (release mode)",
+            "cwd": "slicing-ui4",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "slicing_ui1",
+            "cwd": "slicing_ui1",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "slicing_ui1 (profile mode)",
+            "cwd": "slicing_ui1",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "slicing_ui1 (release mode)",
+            "cwd": "slicing_ui1",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "slicing_ui2",
+            "cwd": "slicing_ui2",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "slicing_ui2 (profile mode)",
+            "cwd": "slicing_ui2",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "slicing_ui2 (release mode)",
+            "cwd": "slicing_ui2",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "slicing_ui3",
+            "cwd": "slicing_ui3",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "slicing_ui3 (profile mode)",
+            "cwd": "slicing_ui3",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "slicing_ui3 (release mode)",
+            "cwd": "slicing_ui3",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
